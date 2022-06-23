@@ -1,1 +1,2 @@
-readme
+#!/bin/bash
+dis is hard
